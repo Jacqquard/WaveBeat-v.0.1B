@@ -15,10 +15,10 @@ WaveBeat is a lightweight, user-friendly audio player built with Java Swing. It 
 ## Screenshots
 
 ### Light Mode
-![Light Mode](https://via.placeholder.com/600x300?text=Light+Mode+Screenshot)
+![Light Mode](https://raw.githubusercontent.com/Jacqquard/WaveBeat-v.0.1B/refs/heads/main/whitemode.png)
 
 ### Dark Mode
-![Dark Mode](https://via.placeholder.com/600x300?text=Dark+Mode+Screenshot)
+![Dark Mode](https://raw.githubusercontent.com/Jacqquard/WaveBeat-v.0.1B/refs/heads/main/darkmode.png)
 
 ## System Requirements
 
